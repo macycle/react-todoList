@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Ji from './Ji'
+//import Boss from './Boss'
 
-ReactDOM.render(<div>hi</div>,document.getElementById('root'));
+ReactDOM.render(<Ji />,document.getElementById('root'));
 
-console.log(React)
-console.log(ReactDOM)
